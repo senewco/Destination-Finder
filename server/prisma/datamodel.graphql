@@ -1,0 +1,17 @@
+type Country {
+    id: ID! @id
+    name: String! @unique
+    createdAt: DateTime @createdAt
+    updatedAt: DateTime @updatedAt
+    landmarks: [Landmark!]! @relation(name: "Country_To_Landmark")
+}
+
+type Landmark {
+    id: ID! @id
+    name: String!
+    city_name: String!
+    rating: Int @default(value: 4)
+    createdAt: DateTime @createdAt
+    updatedAt: DateTime @updatedAt
+    country: Country! @relation(name: "Country_To_Landmark")
+}

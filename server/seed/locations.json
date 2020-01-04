@@ -1,0 +1,304 @@
+{
+    "locations": [
+        {
+            "locationN": "The Grand Canyon",
+            "cityN": "N/A",
+            "countryN": "United States of America"
+        },
+        {
+            "locationN": "The Great Pyramids",
+            "cityN": "Giza",
+            "countryN": "Egypt"
+        },
+        {
+            "locationN": "Eiffel Tower",
+            "cityN": "Paris",
+            "countryN": "France"
+        },
+        {
+            "locationN": "Berlin Wall",
+            "cityN": "Berlin",
+            "countryN": "Germany"
+        },
+        {
+            "locationN": "La Sagrada Familia",
+            "cityN": "Barcelona",
+            "countryN": "Spain"
+        },
+        {
+            "locationN": "Grand Palace",
+            "cityN": "Bangkok",
+            "countryN": "Thailand"
+        },
+        {
+            "locationN": "Mount Fuji",
+            "cityN": "Gotemba",
+            "countryN": "Japan"
+        },
+        {
+            "locationN": "Tower of London",
+            "cityN": "London",
+            "countryN": "United Kingdom"
+        },
+        {
+            "locationN": "Neuschwanstein Castle",
+            "cityN": "N/A",
+            "countryN": "Germany"
+        },
+        {
+            "locationN": "Burj Khalifa",
+            "cityN": "Dubai",
+            "countryN": "United Arab Emirates"
+        },
+        {
+            "locationN": "Statue of Liberty",
+            "cityN": "New York",
+            "countryN": "United States of America"
+        },
+        {
+            "locationN": "Oriental Pearl Tower",
+            "cityN": "Shanghai",
+            "countryN": "China"
+        },
+        {
+            "locationN": "Colosseum",
+            "cityN": "Rome",
+            "countryN": "Italy"
+        },
+        {
+            "locationN": "Matterhorn",
+            "cityN": "Zermatt",
+            "countryN": "Switzerland"
+        },
+        {
+            "locationN": "Blue Mosque",
+            "cityN": "Istanbul",
+            "countryN": "Turkey"
+        },
+        {
+            "locationN": "Victoria Harbor",
+            "cityN": "Hong Kong",
+            "countryN": "China"
+        },
+        {
+            "locationN": "Library of Celsus",
+            "cityN": "Ephesus",
+            "countryN": "Turkey"
+        },
+        {
+            "locationN": "Buckingham Palace",
+            "cityN": "London",
+            "countryN": "United Kingdom"
+        },
+        {
+            "locationN": "Leaning Tower of Pisa",
+            "cityN": "Pisa",
+            "countryN": "Italy"
+        },
+        {
+            "locationN": "Gyeongbokgung Palace",
+            "cityN": "Seoul",
+            "countryN": "South Korea"
+        },
+        {
+            "locationN": "Iguazu Falls",
+            "cityN": "N/A",
+            "countryN": "Brazil"
+        },
+        {
+            "locationN": "The Vatican",
+            "cityN": "Vatican City",
+            "countryN": "Vatican City"
+        },
+        {
+            "locationN": "Sydney Opera House",
+            "cityN": "Sydney",
+            "countryN": "Australia"
+        },
+        {
+            "locationN": "Mount Everest",
+            "cityN": "N/A",
+            "countryN": "Nepal"
+        },
+        {
+            "locationN": "Louvre Museum",
+            "cityN": "Paris",
+            "countryN": "France"
+        },
+        {
+            "locationN": "Terra Cotta Warriors",
+            "cityN": "Xian",
+            "countryN": "China"
+        },
+        {
+            "locationN": "Borobudur Temple",
+            "cityN": "Java",
+            "countryN": "Indonesia"
+        },
+        {
+            "locationN": "Mount Kilimanjaro",
+            "cityN": "N/A",
+            "countryN": "Tanzania"
+        },
+        {
+            "locationN": "Red Square",
+            "cityN": "Moscow",
+            "countryN": "Russia"
+        },
+        {
+            "locationN": "Christ the Redeemer",
+            "cityN": "Rio de Janeiro",
+            "countryN": "Brazil"
+        },
+        {
+            "locationN": "The Great Wall",
+            "cityN": "N/A",
+            "countryN": "China"
+        },
+        {
+            "locationN": "Taj Mahal",
+            "cityN": "Agra",
+            "countryN": "India"
+        },
+        {
+            "locationN": "Table Mountain",
+            "cityN": "Cape Town",
+            "countryN": "South Africa"
+        },
+        {
+            "locationN": "Angkor Archaeological Park",
+            "cityN": "Siem Reap",
+            "countryN": "Cambodia"
+        },
+        {
+            "locationN": "Niagara Falls",
+            "cityN": "Ontario",
+            "countryN": "Canada"
+        },
+        {
+            "locationN": "Galapagos Islands",
+            "cityN": "N/A",
+            "countryN": "Ecuador"
+        },
+        {
+            "locationN": "Acropolis",
+            "cityN": "Athens",
+            "countryN": "Greece"
+        },
+        {
+            "locationN": "St. Basil's Cathedral",
+            "cityN": "Moscow",
+            "countryN": "Russia"
+        },
+        {
+            "locationN": "Stonehenge",
+            "cityN": "Wiltshire",
+            "countryN": "United Kingdom"
+        },
+        {
+            "locationN": "Tower Bridge",
+            "cityN": "London",
+            "countryN": "United Kingdom"
+        },
+        {
+            "locationN": "Saint Mark's Basilica",
+            "cityN": "Venice",
+            "countryN": "Italy"
+        },
+        {
+            "locationN": "Versailles",
+            "cityN": "Yvelines",
+            "countryN": "France"
+        },
+        {
+            "locationN": "Florence Cathedral",
+            "cityN": "Florence",
+            "countryN": "Italy"
+        },
+        {
+            "locationN": "Machu Picchu",
+            "cityN": "N/A",
+            "countryN": "Peru"
+        },
+        {
+            "locationN": "Petronas Twin Towers",
+            "cityN": "Kuala Lumpur",
+            "countryN": "Malaysia"
+        },
+        {
+            "locationN": "Windsor Castle",
+            "cityN": "Windsor",
+            "countryN": "United Kingdom"
+        },
+        {
+            "locationN": "Rock of Gibraltar",
+            "cityN": "N/A",
+            "countryN": "Spain"
+        },
+        {
+            "locationN": "Cologne Cathedral",
+            "cityN": "Cologne",
+            "countryN": "Germany"
+        },
+        {
+            "locationN": "Mount Vesuvius",
+            "cityN": "Naples",
+            "countryN": "Italy"
+        },
+        {
+            "locationN": "Hagia Sofia",
+            "cityN": "Istanbul",
+            "countryN": "Turkey"
+        },
+        {
+            "locationN": "Masjid al-Haram",
+            "cityN": "Mecca",
+            "countryN": "Saudi Arabia"
+        },
+        {
+            "locationN": "Helsinki Cathedral",
+            "cityN": "Helsinki",
+            "countryN": "Finland"
+        },
+        {
+            "locationN": "Redwood National Park",
+            "cityN": "N/A",
+            "countryN": "United States of America"
+        },
+        {
+            "locationN": "Teotihuacán",
+            "cityN": "Teotihuacán",
+            "countryN": "Mexico"
+        },
+        {
+            "locationN": "National Palace Museum",
+            "cityN": "Taipei",
+            "countryN": "Taiwan"
+        },
+        {
+            "locationN": "Tsarskoe Selo State Museum-Reserve",
+            "cityN": "Saint Petersburg",
+            "countryN": "Russia"
+        },
+        {
+            "locationN": "Wilanów Palace",
+            "cityN": "Warsaw",
+            "countryN": "Poland"
+        },
+        {
+            "locationN": "Schönbrunn Palace",
+            "cityN": "Vienna",
+            "countryN": "Austria"
+        },
+        {
+            "locationN": "Alhambra",
+            "cityN": "Grenada",
+            "countryN": "Spain"
+        },
+        {
+            "locationN": "Castillo San Felipe del Morro",
+            "cityN": "San Juan",
+            "countryN": "Puerto Rico"
+        }
+    ]
+}
